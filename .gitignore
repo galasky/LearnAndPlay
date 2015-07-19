@@ -1,0 +1,6 @@
+*.log
+Saved/Logs/*
+Saved/Autosaves/*
+Saved/Backup/*
+Binaries/*
+Intermediate/Build/*
