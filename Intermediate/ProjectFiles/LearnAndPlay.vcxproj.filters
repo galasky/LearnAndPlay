@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\LearnAndPlay.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{9534599E-9A24-495C-9415-22D4474718F4}</UniqueIdentifier>
+			<UniqueIdentifier>{D5DFF342-AC91-4C09-8121-5DC963F223CF}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\LearnAndPlay.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{EA537A46-2029-4230-A7E9-00ACAA895CCD}</UniqueIdentifier>
+			<UniqueIdentifier>{19E02A98-4AD0-49B0-8D88-880C8811A054}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\LearnAndPlay">
-			<UniqueIdentifier>{999767A8-84D7-45C3-AFA5-144384E25F28}</UniqueIdentifier>
+			<UniqueIdentifier>{01422A2B-E3A9-48C3-B259-C7D2641804A3}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\LearnAndPlay\LearnAndPlay.Build.cs">
 			<Filter>Source\LearnAndPlay</Filter>
@@ -49,10 +49,10 @@
 			<Filter>Source\LearnAndPlay</Filter>
 		</ClInclude >
 		<Filter Include="Source\LearnAndPlay\Resources">
-			<UniqueIdentifier>{F4AA6092-5FC1-4DD6-A5C2-C24C84EB5DD5}</UniqueIdentifier>
+			<UniqueIdentifier>{057CF753-80DD-4FF6-AADD-FB79B57B3C1B}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Source\LearnAndPlay\Resources\Windows">
-			<UniqueIdentifier>{A37865DD-357F-4EF9-A9EA-831FA27A5A3C}</UniqueIdentifier>
+			<UniqueIdentifier>{34158C44-1795-4AF9-9F8E-BF7682C824C3}</UniqueIdentifier>
 		</Filter>
 		<ResourceCompile Include="..\..\Source\LearnAndPlay\Resources\Windows\LearnAndPlay.rc">
 			<Filter>Source\LearnAndPlay\Resources\Windows</Filter>
